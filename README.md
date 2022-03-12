@@ -1,6 +1,6 @@
 # Code Key
 
-<img src="./src/assets/LOGO.png" width="15%" height="15%"/>
+<img src="./src/assets/logo.png" width="15%" height="15%"/>
 
 Code Key is React Application.
 
@@ -11,10 +11,25 @@ Hosted On netlify
 Built with 🤍 For You!
 
 <a target="_blank" href="https://code-key.netlify.app/">
-  <img src="https://user-images.githubusercontent.com/68841296/146169520-a70cab10-2ac3-46e6-90e2-739fa59f8cc4.png"/ width="75px" height="35px">
+  <img src="https://user-images.githubusercontent.com/68841296/158018102-55b99d22-d8e1-4701-834e-1f3f9cf8fa60.png" width="75px" height="35px">
 </a>
 
 ## Screenshots
+
+### Home Page
+
+![image](https://user-images.githubusercontent.com/68841296/158018140-4fc59e17-ac5d-4989-817a-e879e10cc2d9.png)
+
+![image](https://user-images.githubusercontent.com/68841296/158018198-3d7500d0-334e-4bce-a5c6-043d229b0974.png)
+
+#### Light Theme
+
+![image](https://user-images.githubusercontent.com/68841296/158018247-81b96559-a830-417e-8147-552ec859d7f3.png)
+
+### About Component
+
+![image](https://user-images.githubusercontent.com/68841296/158018206-c2d076dc-12e4-420a-8ab7-4e7f44d2b73a.png)
+
 
 ### Home Page Before Login
 
