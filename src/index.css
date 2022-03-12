@@ -4,6 +4,7 @@
   margin: 0px;
   font-family: "Fredoka", sans-serif;
   box-sizing: border-box;
+  border-radius: 20px;
 }
 ::-moz-selection {
   color: #57007e;
