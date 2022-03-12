@@ -1,13 +1,16 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+@import url("https://fonts.googleapis.com/css2?family=Fredoka&display=swap");
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Fredoka", sans-serif;
+  box-sizing: border-box;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+::-moz-selection {
+  color: #57007e;
+  background: #ffa069;
+}
+/* Code for Firefox */
+::selection {
+  color: #57007e;
+  background: #ffa069;
 }
