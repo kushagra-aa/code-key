@@ -17,7 +17,7 @@ const Me = () => {
         rel="noreferrer"
       >
         <img
-          src="https://pbs.twimg.com/profile_images/1391264894192738307/YLfn-2Xk_400x400.jpg"
+          src="https://avatars.githubusercontent.com/u/68841296?v=4"
           alt="Me"
         />
       </a>
